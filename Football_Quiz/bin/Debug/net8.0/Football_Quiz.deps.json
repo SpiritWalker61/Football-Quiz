@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Football_Quiz/1.0.0": {
+        "runtime": {
+          "Football_Quiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Football_Quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
